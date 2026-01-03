@@ -1,4 +1,4 @@
-# ttc_to_ttf
+# ttc2ttf
 
 Simple Python script to change `ttc` files to `ttf`.
 

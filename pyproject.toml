@@ -1,5 +1,5 @@
 [project]
-name = "ttc_to_ttf"
+name = "ttc2ttf"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
